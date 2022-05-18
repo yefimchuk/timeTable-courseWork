@@ -1,0 +1,29 @@
+﻿@{
+    ViewBag.Title = "Electronic timetable";
+}
+
+<p class="lead">@ViewBag.Message </p>
+
+<div class="row">
+    <form action="" method="post">
+        <div class="row">
+            <input type="text" placeholder="Login" class="center-block input-lg" id="loginTxt" name="login" />
+        </div>
+
+        <div class="row">
+            <input type="password"  placeholder="Password" class="center-block input-lg" id="passwordTxt" name="password" />
+        </div>
+
+        <div class="row">
+            <input type="password" placeholder="Repeat Password" class="center-block input-lg" id="passwordTxt" name="passwordrepeat" />
+        </div>
+
+        <div class="row">
+            <input type="submit" class="center-block btn" value="Register" />
+        </div>
+    </form>
+
+    <div class="center-block">
+        @Html.ActionLink("Already registred? Sing In", "Login", "Home")
+    </div>
+</div>

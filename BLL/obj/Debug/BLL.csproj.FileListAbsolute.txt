@@ -1,0 +1,54 @@
+C:\Users\Игорь\Desktop\CourseWork_SA-master\CourseWork_SA-master\TimeTable\BLL\bin\Debug\BLL.dll.config
+C:\Users\Игорь\Desktop\CourseWork_SA-master\CourseWork_SA-master\TimeTable\BLL\bin\Debug\BLL.dll
+C:\Users\Игорь\Desktop\CourseWork_SA-master\CourseWork_SA-master\TimeTable\BLL\bin\Debug\BLL.pdb
+C:\Users\Игорь\Desktop\CourseWork_SA-master\CourseWork_SA-master\TimeTable\BLL\bin\Debug\AutoMapper.dll
+C:\Users\Игорь\Desktop\CourseWork_SA-master\CourseWork_SA-master\TimeTable\BLL\bin\Debug\DAL.dll
+C:\Users\Игорь\Desktop\CourseWork_SA-master\CourseWork_SA-master\TimeTable\BLL\bin\Debug\EntityFramework.dll
+C:\Users\Игорь\Desktop\CourseWork_SA-master\CourseWork_SA-master\TimeTable\BLL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Игорь\Desktop\CourseWork_SA-master\CourseWork_SA-master\TimeTable\BLL\bin\Debug\Ninject.dll
+C:\Users\Игорь\Desktop\CourseWork_SA-master\CourseWork_SA-master\TimeTable\BLL\bin\Debug\DAL.pdb
+C:\Users\Игорь\Desktop\CourseWork_SA-master\CourseWork_SA-master\TimeTable\BLL\bin\Debug\AutoMapper.xml
+C:\Users\Игорь\Desktop\CourseWork_SA-master\CourseWork_SA-master\TimeTable\BLL\bin\Debug\EntityFramework.xml
+C:\Users\Игорь\Desktop\CourseWork_SA-master\CourseWork_SA-master\TimeTable\BLL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Игорь\Desktop\CourseWork_SA-master\CourseWork_SA-master\TimeTable\BLL\bin\Debug\Ninject.xml
+C:\Users\Игорь\Desktop\CourseWork_SA-master\CourseWork_SA-master\TimeTable\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+C:\Users\Игорь\Desktop\CourseWork_SA-master\CourseWork_SA-master\TimeTable\BLL\obj\Debug\BLL.dll
+C:\Users\Игорь\Desktop\CourseWork_SA-master\CourseWork_SA-master\TimeTable\BLL\obj\Debug\BLL.pdb
+C:\Users\Professional\Downloads\2 курс\2 курс\2 семестр\Архітектура та проектування\модуль 2\CourseWork_SA-master\CourseWork_SA-master\TimeTable\BLL\bin\Debug\BLL.dll.config
+C:\Users\Professional\Downloads\2 курс\2 курс\2 семестр\Архітектура та проектування\модуль 2\CourseWork_SA-master\CourseWork_SA-master\TimeTable\BLL\bin\Debug\BLL.dll
+C:\Users\Professional\Downloads\2 курс\2 курс\2 семестр\Архітектура та проектування\модуль 2\CourseWork_SA-master\CourseWork_SA-master\TimeTable\BLL\bin\Debug\BLL.pdb
+C:\Users\Professional\Downloads\2 курс\2 курс\2 семестр\Архітектура та проектування\модуль 2\CourseWork_SA-master\CourseWork_SA-master\TimeTable\BLL\bin\Debug\AutoMapper.dll
+C:\Users\Professional\Downloads\2 курс\2 курс\2 семестр\Архітектура та проектування\модуль 2\CourseWork_SA-master\CourseWork_SA-master\TimeTable\BLL\bin\Debug\DAL.dll
+C:\Users\Professional\Downloads\2 курс\2 курс\2 семестр\Архітектура та проектування\модуль 2\CourseWork_SA-master\CourseWork_SA-master\TimeTable\BLL\bin\Debug\EntityFramework.dll
+C:\Users\Professional\Downloads\2 курс\2 курс\2 семестр\Архітектура та проектування\модуль 2\CourseWork_SA-master\CourseWork_SA-master\TimeTable\BLL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Professional\Downloads\2 курс\2 курс\2 семестр\Архітектура та проектування\модуль 2\CourseWork_SA-master\CourseWork_SA-master\TimeTable\BLL\bin\Debug\Ninject.dll
+C:\Users\Professional\Downloads\2 курс\2 курс\2 семестр\Архітектура та проектування\модуль 2\CourseWork_SA-master\CourseWork_SA-master\TimeTable\BLL\bin\Debug\DAL.pdb
+C:\Users\Professional\Downloads\2 курс\2 курс\2 семестр\Архітектура та проектування\модуль 2\CourseWork_SA-master\CourseWork_SA-master\TimeTable\BLL\bin\Debug\DAL.dll.config
+C:\Users\Professional\Downloads\2 курс\2 курс\2 семестр\Архітектура та проектування\модуль 2\CourseWork_SA-master\CourseWork_SA-master\TimeTable\BLL\bin\Debug\AutoMapper.xml
+C:\Users\Professional\Downloads\2 курс\2 курс\2 семестр\Архітектура та проектування\модуль 2\CourseWork_SA-master\CourseWork_SA-master\TimeTable\BLL\bin\Debug\EntityFramework.xml
+C:\Users\Professional\Downloads\2 курс\2 курс\2 семестр\Архітектура та проектування\модуль 2\CourseWork_SA-master\CourseWork_SA-master\TimeTable\BLL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Professional\Downloads\2 курс\2 курс\2 семестр\Архітектура та проектування\модуль 2\CourseWork_SA-master\CourseWork_SA-master\TimeTable\BLL\bin\Debug\Ninject.xml
+C:\Users\Professional\Downloads\2 курс\2 курс\2 семестр\Архітектура та проектування\модуль 2\CourseWork_SA-master\CourseWork_SA-master\TimeTable\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+C:\Users\Professional\Downloads\2 курс\2 курс\2 семестр\Архітектура та проектування\модуль 2\CourseWork_SA-master\CourseWork_SA-master\TimeTable\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+C:\Users\Professional\Downloads\2 курс\2 курс\2 семестр\Архітектура та проектування\модуль 2\CourseWork_SA-master\CourseWork_SA-master\TimeTable\BLL\obj\Debug\BLL.csproj.CopyComplete
+C:\Users\Professional\Downloads\2 курс\2 курс\2 семестр\Архітектура та проектування\модуль 2\CourseWork_SA-master\CourseWork_SA-master\TimeTable\BLL\obj\Debug\BLL.dll
+C:\Users\Professional\Downloads\2 курс\2 курс\2 семестр\Архітектура та проектування\модуль 2\CourseWork_SA-master\CourseWork_SA-master\TimeTable\BLL\obj\Debug\BLL.pdb
+C:\Users\Yefimchuk\Desktop\CourseWork_SA-master\CourseWork_SA-master\CourseWork_SA-master\TimeTable\BLL\bin\Debug\BLL.dll.config
+C:\Users\Yefimchuk\Desktop\CourseWork_SA-master\CourseWork_SA-master\CourseWork_SA-master\TimeTable\BLL\bin\Debug\BLL.dll
+C:\Users\Yefimchuk\Desktop\CourseWork_SA-master\CourseWork_SA-master\CourseWork_SA-master\TimeTable\BLL\bin\Debug\BLL.pdb
+C:\Users\Yefimchuk\Desktop\CourseWork_SA-master\CourseWork_SA-master\CourseWork_SA-master\TimeTable\BLL\bin\Debug\AutoMapper.dll
+C:\Users\Yefimchuk\Desktop\CourseWork_SA-master\CourseWork_SA-master\CourseWork_SA-master\TimeTable\BLL\bin\Debug\DAL.dll
+C:\Users\Yefimchuk\Desktop\CourseWork_SA-master\CourseWork_SA-master\CourseWork_SA-master\TimeTable\BLL\bin\Debug\EntityFramework.dll
+C:\Users\Yefimchuk\Desktop\CourseWork_SA-master\CourseWork_SA-master\CourseWork_SA-master\TimeTable\BLL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Yefimchuk\Desktop\CourseWork_SA-master\CourseWork_SA-master\CourseWork_SA-master\TimeTable\BLL\bin\Debug\Ninject.dll
+C:\Users\Yefimchuk\Desktop\CourseWork_SA-master\CourseWork_SA-master\CourseWork_SA-master\TimeTable\BLL\bin\Debug\DAL.pdb
+C:\Users\Yefimchuk\Desktop\CourseWork_SA-master\CourseWork_SA-master\CourseWork_SA-master\TimeTable\BLL\bin\Debug\DAL.dll.config
+C:\Users\Yefimchuk\Desktop\CourseWork_SA-master\CourseWork_SA-master\CourseWork_SA-master\TimeTable\BLL\bin\Debug\AutoMapper.xml
+C:\Users\Yefimchuk\Desktop\CourseWork_SA-master\CourseWork_SA-master\CourseWork_SA-master\TimeTable\BLL\bin\Debug\EntityFramework.xml
+C:\Users\Yefimchuk\Desktop\CourseWork_SA-master\CourseWork_SA-master\CourseWork_SA-master\TimeTable\BLL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Yefimchuk\Desktop\CourseWork_SA-master\CourseWork_SA-master\CourseWork_SA-master\TimeTable\BLL\bin\Debug\Ninject.xml
+C:\Users\Yefimchuk\Desktop\CourseWork_SA-master\CourseWork_SA-master\CourseWork_SA-master\TimeTable\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+C:\Users\Yefimchuk\Desktop\CourseWork_SA-master\CourseWork_SA-master\CourseWork_SA-master\TimeTable\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+C:\Users\Yefimchuk\Desktop\CourseWork_SA-master\CourseWork_SA-master\CourseWork_SA-master\TimeTable\BLL\obj\Debug\BLL.csproj.CopyComplete
+C:\Users\Yefimchuk\Desktop\CourseWork_SA-master\CourseWork_SA-master\CourseWork_SA-master\TimeTable\BLL\obj\Debug\BLL.dll
+C:\Users\Yefimchuk\Desktop\CourseWork_SA-master\CourseWork_SA-master\CourseWork_SA-master\TimeTable\BLL\obj\Debug\BLL.pdb

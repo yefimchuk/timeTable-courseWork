@@ -1,0 +1,40 @@
+C:\Users\Игорь\Desktop\CourseWork_SA-master\CourseWork_SA-master\TimeTable\DAL\bin\Debug\DAL.dll.config
+C:\Users\Игорь\Desktop\CourseWork_SA-master\CourseWork_SA-master\TimeTable\DAL\bin\Debug\DAL.dll
+C:\Users\Игорь\Desktop\CourseWork_SA-master\CourseWork_SA-master\TimeTable\DAL\bin\Debug\DAL.pdb
+C:\Users\Игорь\Desktop\CourseWork_SA-master\CourseWork_SA-master\TimeTable\DAL\bin\Debug\AutoMapper.dll
+C:\Users\Игорь\Desktop\CourseWork_SA-master\CourseWork_SA-master\TimeTable\DAL\bin\Debug\EntityFramework.dll
+C:\Users\Игорь\Desktop\CourseWork_SA-master\CourseWork_SA-master\TimeTable\DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Игорь\Desktop\CourseWork_SA-master\CourseWork_SA-master\TimeTable\DAL\bin\Debug\AutoMapper.xml
+C:\Users\Игорь\Desktop\CourseWork_SA-master\CourseWork_SA-master\TimeTable\DAL\bin\Debug\EntityFramework.xml
+C:\Users\Игорь\Desktop\CourseWork_SA-master\CourseWork_SA-master\TimeTable\DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Игорь\Desktop\CourseWork_SA-master\CourseWork_SA-master\TimeTable\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\Users\Игорь\Desktop\CourseWork_SA-master\CourseWork_SA-master\TimeTable\DAL\obj\Debug\DAL.dll
+C:\Users\Игорь\Desktop\CourseWork_SA-master\CourseWork_SA-master\TimeTable\DAL\obj\Debug\DAL.pdb
+C:\Users\Professional\Downloads\2 курс\2 курс\2 семестр\Архітектура та проектування\модуль 2\CourseWork_SA-master\CourseWork_SA-master\TimeTable\DAL\bin\Debug\DAL.dll.config
+C:\Users\Professional\Downloads\2 курс\2 курс\2 семестр\Архітектура та проектування\модуль 2\CourseWork_SA-master\CourseWork_SA-master\TimeTable\DAL\bin\Debug\DAL.dll
+C:\Users\Professional\Downloads\2 курс\2 курс\2 семестр\Архітектура та проектування\модуль 2\CourseWork_SA-master\CourseWork_SA-master\TimeTable\DAL\bin\Debug\DAL.pdb
+C:\Users\Professional\Downloads\2 курс\2 курс\2 семестр\Архітектура та проектування\модуль 2\CourseWork_SA-master\CourseWork_SA-master\TimeTable\DAL\bin\Debug\AutoMapper.dll
+C:\Users\Professional\Downloads\2 курс\2 курс\2 семестр\Архітектура та проектування\модуль 2\CourseWork_SA-master\CourseWork_SA-master\TimeTable\DAL\bin\Debug\EntityFramework.dll
+C:\Users\Professional\Downloads\2 курс\2 курс\2 семестр\Архітектура та проектування\модуль 2\CourseWork_SA-master\CourseWork_SA-master\TimeTable\DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Professional\Downloads\2 курс\2 курс\2 семестр\Архітектура та проектування\модуль 2\CourseWork_SA-master\CourseWork_SA-master\TimeTable\DAL\bin\Debug\AutoMapper.xml
+C:\Users\Professional\Downloads\2 курс\2 курс\2 семестр\Архітектура та проектування\модуль 2\CourseWork_SA-master\CourseWork_SA-master\TimeTable\DAL\bin\Debug\EntityFramework.xml
+C:\Users\Professional\Downloads\2 курс\2 курс\2 семестр\Архітектура та проектування\модуль 2\CourseWork_SA-master\CourseWork_SA-master\TimeTable\DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Professional\Downloads\2 курс\2 курс\2 семестр\Архітектура та проектування\модуль 2\CourseWork_SA-master\CourseWork_SA-master\TimeTable\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+C:\Users\Professional\Downloads\2 курс\2 курс\2 семестр\Архітектура та проектування\модуль 2\CourseWork_SA-master\CourseWork_SA-master\TimeTable\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\Professional\Downloads\2 курс\2 курс\2 семестр\Архітектура та проектування\модуль 2\CourseWork_SA-master\CourseWork_SA-master\TimeTable\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\Professional\Downloads\2 курс\2 курс\2 семестр\Архітектура та проектування\модуль 2\CourseWork_SA-master\CourseWork_SA-master\TimeTable\DAL\obj\Debug\DAL.dll
+C:\Users\Professional\Downloads\2 курс\2 курс\2 семестр\Архітектура та проектування\модуль 2\CourseWork_SA-master\CourseWork_SA-master\TimeTable\DAL\obj\Debug\DAL.pdb
+C:\Users\Yefimchuk\Desktop\CourseWork_SA-master\CourseWork_SA-master\CourseWork_SA-master\TimeTable\DAL\bin\Debug\DAL.dll.config
+C:\Users\Yefimchuk\Desktop\CourseWork_SA-master\CourseWork_SA-master\CourseWork_SA-master\TimeTable\DAL\bin\Debug\DAL.dll
+C:\Users\Yefimchuk\Desktop\CourseWork_SA-master\CourseWork_SA-master\CourseWork_SA-master\TimeTable\DAL\bin\Debug\DAL.pdb
+C:\Users\Yefimchuk\Desktop\CourseWork_SA-master\CourseWork_SA-master\CourseWork_SA-master\TimeTable\DAL\bin\Debug\AutoMapper.dll
+C:\Users\Yefimchuk\Desktop\CourseWork_SA-master\CourseWork_SA-master\CourseWork_SA-master\TimeTable\DAL\bin\Debug\EntityFramework.dll
+C:\Users\Yefimchuk\Desktop\CourseWork_SA-master\CourseWork_SA-master\CourseWork_SA-master\TimeTable\DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Yefimchuk\Desktop\CourseWork_SA-master\CourseWork_SA-master\CourseWork_SA-master\TimeTable\DAL\bin\Debug\AutoMapper.xml
+C:\Users\Yefimchuk\Desktop\CourseWork_SA-master\CourseWork_SA-master\CourseWork_SA-master\TimeTable\DAL\bin\Debug\EntityFramework.xml
+C:\Users\Yefimchuk\Desktop\CourseWork_SA-master\CourseWork_SA-master\CourseWork_SA-master\TimeTable\DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Yefimchuk\Desktop\CourseWork_SA-master\CourseWork_SA-master\CourseWork_SA-master\TimeTable\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+C:\Users\Yefimchuk\Desktop\CourseWork_SA-master\CourseWork_SA-master\CourseWork_SA-master\TimeTable\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\Yefimchuk\Desktop\CourseWork_SA-master\CourseWork_SA-master\CourseWork_SA-master\TimeTable\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\Yefimchuk\Desktop\CourseWork_SA-master\CourseWork_SA-master\CourseWork_SA-master\TimeTable\DAL\obj\Debug\DAL.dll
+C:\Users\Yefimchuk\Desktop\CourseWork_SA-master\CourseWork_SA-master\CourseWork_SA-master\TimeTable\DAL\obj\Debug\DAL.pdb
