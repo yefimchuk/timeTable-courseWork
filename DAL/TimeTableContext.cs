@@ -6,7 +6,7 @@ namespace DAL
 {
     public class TimeTableContext : DbContext
     {
-        public TimeTableContext() : base("DbConnection")
+        public TimeTableContext() : base("Db")
         {
         }  
 

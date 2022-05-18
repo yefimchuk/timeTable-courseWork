@@ -38,3 +38,17 @@ C:\Users\Yefimchuk\Desktop\CourseWork_SA-master\CourseWork_SA-master\CourseWork_
 C:\Users\Yefimchuk\Desktop\CourseWork_SA-master\CourseWork_SA-master\CourseWork_SA-master\TimeTable\DAL\obj\Debug\DAL.csproj.CopyComplete
 C:\Users\Yefimchuk\Desktop\CourseWork_SA-master\CourseWork_SA-master\CourseWork_SA-master\TimeTable\DAL\obj\Debug\DAL.dll
 C:\Users\Yefimchuk\Desktop\CourseWork_SA-master\CourseWork_SA-master\CourseWork_SA-master\TimeTable\DAL\obj\Debug\DAL.pdb
+C:\Users\Yefimchuk\Desktop\CourseWork_SA-master\CourseWork_SA-master\CourseWork\TimeTable\DAL\bin\Debug\DAL.dll.config
+C:\Users\Yefimchuk\Desktop\CourseWork_SA-master\CourseWork_SA-master\CourseWork\TimeTable\DAL\bin\Debug\DAL.dll
+C:\Users\Yefimchuk\Desktop\CourseWork_SA-master\CourseWork_SA-master\CourseWork\TimeTable\DAL\bin\Debug\DAL.pdb
+C:\Users\Yefimchuk\Desktop\CourseWork_SA-master\CourseWork_SA-master\CourseWork\TimeTable\DAL\bin\Debug\AutoMapper.dll
+C:\Users\Yefimchuk\Desktop\CourseWork_SA-master\CourseWork_SA-master\CourseWork\TimeTable\DAL\bin\Debug\EntityFramework.dll
+C:\Users\Yefimchuk\Desktop\CourseWork_SA-master\CourseWork_SA-master\CourseWork\TimeTable\DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Yefimchuk\Desktop\CourseWork_SA-master\CourseWork_SA-master\CourseWork\TimeTable\DAL\bin\Debug\AutoMapper.xml
+C:\Users\Yefimchuk\Desktop\CourseWork_SA-master\CourseWork_SA-master\CourseWork\TimeTable\DAL\bin\Debug\EntityFramework.xml
+C:\Users\Yefimchuk\Desktop\CourseWork_SA-master\CourseWork_SA-master\CourseWork\TimeTable\DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Yefimchuk\Desktop\CourseWork_SA-master\CourseWork_SA-master\CourseWork\TimeTable\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+C:\Users\Yefimchuk\Desktop\CourseWork_SA-master\CourseWork_SA-master\CourseWork\TimeTable\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\Yefimchuk\Desktop\CourseWork_SA-master\CourseWork_SA-master\CourseWork\TimeTable\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\Yefimchuk\Desktop\CourseWork_SA-master\CourseWork_SA-master\CourseWork\TimeTable\DAL\obj\Debug\DAL.dll
+C:\Users\Yefimchuk\Desktop\CourseWork_SA-master\CourseWork_SA-master\CourseWork\TimeTable\DAL\obj\Debug\DAL.pdb
