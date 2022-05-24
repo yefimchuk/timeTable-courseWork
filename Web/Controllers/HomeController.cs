@@ -115,6 +115,8 @@ namespace Web.Controllers
             LessonOperations lo = new LessonOperations();
             var list = lo.GetLessons();
             string result = "";
+
+            if(list.Count == 0) { list.Add(new MLesson()); }
            
             foreach(MLesson l in list)
             {

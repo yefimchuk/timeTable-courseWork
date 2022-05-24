@@ -52,3 +52,17 @@ C:\Users\Yefimchuk\Desktop\CourseWork_SA-master\CourseWork_SA-master\CourseWork\
 C:\Users\Yefimchuk\Desktop\CourseWork_SA-master\CourseWork_SA-master\CourseWork\TimeTable\DAL\obj\Debug\DAL.csproj.CopyComplete
 C:\Users\Yefimchuk\Desktop\CourseWork_SA-master\CourseWork_SA-master\CourseWork\TimeTable\DAL\obj\Debug\DAL.dll
 C:\Users\Yefimchuk\Desktop\CourseWork_SA-master\CourseWork_SA-master\CourseWork\TimeTable\DAL\obj\Debug\DAL.pdb
+C:\Users\FirStSmaN\Documents\NAU\Course\timeTable-courseWork\DAL\bin\Debug\DAL.dll.config
+C:\Users\FirStSmaN\Documents\NAU\Course\timeTable-courseWork\DAL\bin\Debug\DAL.dll
+C:\Users\FirStSmaN\Documents\NAU\Course\timeTable-courseWork\DAL\bin\Debug\DAL.pdb
+C:\Users\FirStSmaN\Documents\NAU\Course\timeTable-courseWork\DAL\bin\Debug\AutoMapper.dll
+C:\Users\FirStSmaN\Documents\NAU\Course\timeTable-courseWork\DAL\bin\Debug\EntityFramework.dll
+C:\Users\FirStSmaN\Documents\NAU\Course\timeTable-courseWork\DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\FirStSmaN\Documents\NAU\Course\timeTable-courseWork\DAL\bin\Debug\AutoMapper.xml
+C:\Users\FirStSmaN\Documents\NAU\Course\timeTable-courseWork\DAL\bin\Debug\EntityFramework.xml
+C:\Users\FirStSmaN\Documents\NAU\Course\timeTable-courseWork\DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\FirStSmaN\Documents\NAU\Course\timeTable-courseWork\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+C:\Users\FirStSmaN\Documents\NAU\Course\timeTable-courseWork\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\FirStSmaN\Documents\NAU\Course\timeTable-courseWork\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\FirStSmaN\Documents\NAU\Course\timeTable-courseWork\DAL\obj\Debug\DAL.dll
+C:\Users\FirStSmaN\Documents\NAU\Course\timeTable-courseWork\DAL\obj\Debug\DAL.pdb
